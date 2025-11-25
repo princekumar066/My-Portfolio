@@ -53,7 +53,7 @@ export const SkillsInfo = [
     skills: [
       { name: 'Java', logo: javaLogo },
       { name: 'Python', logo: pythonLogo },
-      { name: 'JavaScript', logo: javascriptLogo },
+      { name: 'JS', logo: javascriptLogo },
     ],
   },
   {
@@ -118,7 +118,7 @@ export const SkillsInfo = [
       date: "Apr 2020 - March 2022",
       grade: "80.33%",
       desc: "I completed my class 12 education from A.N.D.P Inter College, (Amroha), under the UP board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer.",
-      degree: "CBSE(XII) - PCM with Computer Application",
+      degree: "UP(XII) - PCM with Computer Application",
     },
     {
       id: 2,
@@ -127,7 +127,7 @@ export const SkillsInfo = [
       date: "Apr 2018 - March 2022",
       grade: "82.33%",
       desc: "I completed my class 10 education from Ch. Sukhlal Singh Inter College, (Amroha), under the UP board, where I studied Science with Computer.",
-      degree: "CBSE(X), Science with Computer Application",
+      degree: "UP(X), Science with Computer Application",
     },
   ];
   
