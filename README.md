@@ -45,5 +45,5 @@ npm run build
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Prince Kumar](https://vercel.com/princekumar066s-projects).
+This project was created with ❤️ by [Prince Kumar](https://my-portfolio-fykk.vercel.app/).
 If you like it, feel free to ⭐ this repository and share!
